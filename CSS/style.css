@@ -1,0 +1,199 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Voces", sans-serif;
+}
+
+.full_width {
+  width: 100%;
+  height: auto;
+  background: white;
+}
+
+.fix_width {
+  max-width: 1500px;
+  height: auto;
+  background: white;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.content-one {
+  background: white;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  align-items: center;
+}
+
+.box-1 {
+  width: 10%;
+  background: none;
+  height: auto;
+  margin: 6px;
+}
+
+.main_image {
+  max-width: 100%;
+  height: auto;
+}
+
+.box-2 {
+  width: 55%;
+  background: none;
+  height: auto;
+  display: flex;
+  margin: 25px;
+}
+
+.row-1 {
+  display: flex;
+}
+
+.row-1a {
+  list-style: none;
+  margin: 6px;
+  padding: 2px;
+}
+
+.box-3 {
+  width: 15%;
+  background: none;
+  height: auto;
+  display: flex;
+  margin: 25px;
+}
+
+.box-4 {
+  width: 10%;
+  background: none;
+  height: auto;
+  margin: 25px;
+}
+
+.row-2 {
+  display: flex;
+}
+
+.row-2a {
+  list-style: none;
+  margin: 6px;
+  padding: 2px;
+}
+
+.fa-solid {
+  margin: 7px;
+  padding: 2px;
+}
+
+.content-two {
+  background: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.body_image {
+  max-width: 100%;
+  height: auto;
+  margin: 40px;
+  padding: 2px;
+}
+
+.content-three {
+  background: white;
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.row-3 {
+  list-style: none;
+  display: flex;
+}
+
+.row-4 {
+  margin: 15px;
+}
+
+.content-four {
+  background: white;
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.box-5 {
+  width: 50%;
+  background: none;
+  height: auto;
+
+}
+
+.box-5a {
+  width: 100%;
+  background: white;
+  padding: 10px;
+  height: auto;
+} 
+
+.galaxy_image {
+  max-width: 100%;
+  height: auto;
+}
+
+.small_image {
+  width: 100%;
+  height:auto;
+}
+
+.content-five {
+  background: #f7f7f7;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.box-7 {
+  background: none;
+  width: 35%;
+  height: auto;
+  padding: 10px;
+  margin: 10px;
+}
+
+.title_footer {
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.5rem;
+  margin: 20px;
+}
+
+.list {
+  font-size: 13px;
+  line-height: 1.5rem;
+  font-weight: 500;
+  color: black;
+  margin: 10px;
+}
+
+.row-5 {
+  list-style: none;
+}
+
+.box-5b {
+  width: 100%;
+  display: flex;
+}
+
+.box-5bi{
+  width: 50%;
+  padding: 10px;
+}
